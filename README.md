@@ -12,3 +12,5 @@ AcmeMembershipUpdater
 
 
 There were definitely holes in this project as a whole. We had an uncooperative team member and Cole, Jacob, Jacoby and myself picked up the slack with minimal time to finish.
+
+Our final grade on this project was a 73%
